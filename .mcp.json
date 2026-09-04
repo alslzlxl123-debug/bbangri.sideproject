@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "teamnotion": {
+      "type": "http",
+      "url": "https://workspace.bbanggree.com/mcp",
+      "headers": {
+        "X-Access-Key": "${TEAMNOTION_ACCESS_KEY}",
+        "X-Secret-Key": "${TEAMNOTION_SECRET_KEY}"
+      }
+    }
+  }
+}
